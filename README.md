@@ -1,2 +1,2 @@
 # tkinter-projects
-Random TKinter Projects
+Random TKinter + GUIZero Projects
